@@ -1,0 +1,25 @@
+{
+  "habitTrackerApp": {
+    "preferences": {
+      "home": {
+        "title": "Preferences",
+        "createLabel": "Preferences erstellen",
+        "createOrEditLabel": "Preferences erstellen oder bearbeiten",
+        "search": "Suche nach Preferences",
+        "notFound": "No Preferences found"
+      },
+      "created": "Preferences erstellt mit ID {{ param }}",
+      "updated": "Preferences aktualisiert mit ID {{ param }}",
+      "deleted": "Preferences gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Preferences {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Preferences"
+      },
+      "weeklyGoal": "Weekly Goal",
+      "weightUnits": "Weight Units",
+      "user": "User"
+    }
+  }
+}

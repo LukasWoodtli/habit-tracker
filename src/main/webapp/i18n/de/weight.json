@@ -1,0 +1,25 @@
+{
+  "habitTrackerApp": {
+    "weight": {
+      "home": {
+        "title": "Weights",
+        "createLabel": "Weight erstellen",
+        "createOrEditLabel": "Weight erstellen oder bearbeiten",
+        "search": "Suche nach Weight",
+        "notFound": "No Weights found"
+      },
+      "created": "Weight erstellt mit ID {{ param }}",
+      "updated": "Weight aktualisiert mit ID {{ param }}",
+      "deleted": "Weight gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Weight {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Weight"
+      },
+      "timestamp": "Timestamp",
+      "weight": "Weight",
+      "user": "User"
+    }
+  }
+}
