@@ -48,6 +48,9 @@ public class CacheConfiguration {
             createCache(cm, org.woodtli.habit.domain.User.class.getName());
             createCache(cm, org.woodtli.habit.domain.Authority.class.getName());
             createCache(cm, org.woodtli.habit.domain.User.class.getName() + ".authorities");
+            createCache(cm, org.woodtli.habit.domain.Points.class.getName());
+            createCache(cm, org.woodtli.habit.domain.Weight.class.getName());
+            createCache(cm, org.woodtli.habit.domain.Preferences.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }
